@@ -1,4 +1,4 @@
-### NLPExample  📚
+### Predicting Credit Card Attrition  📚
 
 #### This repository contains the code and resources for predicting credit card attrition using machine learning techniques.
 #### Credit card attrition refers to the situation where credit card customers close their accounts, and it is crucial for financial institutions to predict and understand this behavior to mitigate losses and retain customers effectively.😶‍🌫️
@@ -25,5 +25,5 @@
 
 ### 7. License 🌐
 
-##### Thank you for contributing to NLPExample! 🌟
+##### Thank you for contributing to Predicting Credit Card Attrition ! 🌟
 
