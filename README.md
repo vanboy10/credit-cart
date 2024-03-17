@@ -25,5 +25,5 @@
 
 ### 7. License 🌐
 
-###### Thank you for contributing to NLPExample! 🌟
+##### Thank you for contributing to NLPExample! 🌟
 
